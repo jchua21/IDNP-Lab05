@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="catedral_desc">La Catedral de Arequipa, un majestuoso ícono de la ciudad, se erige en la Plaza de Armas como un ejemplo destacado de la arquitectura barroca. Construida en sillar blanco, un tipo de piedra volcánica, la catedral presenta una impresionante fachada con elaborados detalles escultóricos y dos imponentes torres que dominan el paisaje urbano.</string>
+    <string name="claustro_desc">
+
+    </string>
 </resources>
